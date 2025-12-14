@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working at: BeHooked<br>💬 Let’s discuss: Tech, AI, systems, and everything in between<br>🌱 I’m currently learning: How to scale systems (and myself 😄)<br>⚡ Fun fact: If I’m not coding or prompting AI to do it… I’m probably binge-watching something I’ll forget
+🔭 I’m currently working at: BeHooked<br>💬 Let’s discuss: Tech, AI, systems, and everything in between<br>🌱 I’m currently learning: How to scale systems (and myself 😄)<br>⚡ Fun fact: If I’m not coding or prompting AI to do it… I’m probably binge-watching something I’ll 
 
 
 ## 🌐 Socials:
